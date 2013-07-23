@@ -1,0 +1,5 @@
+struct datei
+{
+	char name[256];
+	unsigned long int size;
+};
